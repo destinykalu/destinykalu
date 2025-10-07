@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<!--# 💫 About Me:
+
+**destinykalu/destinykalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+# 💫 About Me:
 🔭 I’m currently working on building my interactive fashion website, VougeVerse, using HTML, CSS, and some JavaScript<br>👯 I’m looking to collaborate on creative coding projects and beginner-friendly apps<br>🤝 I’m looking for help with learning and mastering JavaScript<br>🌱 I’m currently learning data structures and full-stack web development, with a focus on HTML right now<br>💬 Ask me about computer science, coding projects, crochet, sewing, fashion, or running a small business<br>⚡ Fun fact: I own my own hair braiding business and love turning creative ideas into reality
 
 
@@ -24,16 +27,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=destinykalu&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-**destinykalu/destinykalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
